@@ -1,0 +1,6 @@
+com/imooc/ad/exception/AdException.class
+com/imooc/ad/advice/GlobalExceptionAdvice.class
+com/imooc/ad/annotation/IgnoreResponseAdvice.class
+com/imooc/ad/vo/CommonResponse.class
+com/imooc/ad/conf/WebConfiguration.class
+com/imooc/ad/advice/CommonResponseDataAdvice.class

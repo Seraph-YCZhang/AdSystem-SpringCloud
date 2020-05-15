@@ -1,0 +1,3 @@
+com/imooc/ad/ZuulGatewayApplication.class
+com/imooc/ad/AccessLogFilter.class
+com/imooc/ad/PreRequestFilter.class

@@ -1,0 +1,6 @@
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/vo/CommonResponse.java
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/CommonResponseDataAdvice.java
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/conf/WebConfiguration.java
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/advice/GlobalExceptionAdvice.java
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/exception/AdException.java
+/Users/zhangyuchen/imooc/imooc-ad-spring-cloud/imooc-ad-service/ad-common/src/main/java/com/imooc/ad/annotation/IgnoreResponseAdvice.java

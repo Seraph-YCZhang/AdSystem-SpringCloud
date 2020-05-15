@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8ee2097-7873-4a33-8c1c-4e4755566223" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yzra4rtNviMSRyOMrqLUVMG06i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager" selected="JUnit.AdPlanServiceTest.testGetAdPlan">
+    <configuration name="BinlogServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.ad.service.BinlogServiceTest" />
+      <module name="ad-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.ad.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.ad.EurekaApplication" />
+      <module name="ad-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.ad.ZuulGatewayApplication" />
+      <module name="ad-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdPlanServiceTest.testGetAdPlan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-sponsor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.ad.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.ad.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.ad.service.AdPlanServiceTest" />
+      <option name="METHOD_NAME" value="testGetAdPlan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DumpDataService.dumpAdTableData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-sponsor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.ad.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.ad.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.ad.service.DumpDataService" />
+      <option name="METHOD_NAME" value="dumpAdTableData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdPlanServiceTest.testGetAdPlan" />
+        <item itemvalue="JUnit.DumpDataService.dumpAdTableData" />
+        <item itemvalue="Application.BinlogServiceTest" />
+        <item itemvalue="Application.ZuulGatewayApplication" />
+        <item itemvalue="Application.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ee2097-7873-4a33-8c1c-4e4755566223" name="Default Changelist" comment="" />
+      <created>1583956324307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583956324307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Auto_Import" timestamp="1585186294971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Auto_Import/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1585186294971" />
+    <state x="320" y="115" key="#Project_Structure" timestamp="1589423568721">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589423568721" />
+    <state x="877" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1589171161618">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="877" y="166" key="#com.intellij.ide.util.MemberChooser/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589171161618" />
+    <state x="877" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1589010633745" />
+    <state x="124" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589170003917">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="124" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589170003917" />
+    <state x="465" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589170290908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="465" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589170290908" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589561521665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589427228024" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589561521665" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589561521664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589427228023" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589561521664" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589561521663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589427228022" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589561521663" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589561521664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589427228023" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589561521664" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1584655821752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584655821752" />
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1589342142069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589342142069" />
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588906618596" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1583956876066" />
+    <state x="478" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585191825048">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="478" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1585191825048" />
+    <state x="756" y="85" width="683" height="729" key="find.popup" timestamp="1584585293214">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="756" y="85" width="683" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1584585293214" />
+    <state x="74" y="40" key="new project wizard" timestamp="1589422837950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="74" y="40" key="new project wizard/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589422837950" />
+    <state x="74" y="40" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1584845417498" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589147688935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-960.196.960.704/0.0.1440.900@0.0.1440.900" timestamp="1589147688935" />
+  </component>
+</project>
